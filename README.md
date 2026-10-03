@@ -1,6 +1,6 @@
 <div align="center">
 
-# TMDET-Python
+# membrane-orientation-tmdet
 
 **Predict where the lipid membrane sits around a transmembrane protein, from its 3D structure alone.**
 
